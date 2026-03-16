@@ -10,16 +10,12 @@ Hi, I'm [Tanishq Shah](https://www.linkedin.com/in/tanishq-s2). I break things f
 |---------|-------------|
 | [Spy_Cam_Detection](https://github.com/tanishqshah2/Spy_Cam_Detection) | Detect hidden spy cameras lurking on local networks |
 | [CNAME-Lookup-Tool](https://github.com/tanishqshah2/CNAME-Lookup-Tool) | Bulk CNAME resolution to identify subdomain takeover candidates |
-| [DigiSpark-Scripts](https://github.com/tanishqshah2/DigiSpark-Scripts) | USB Rubber Ducky–style HID payloads for DigiSpark |
-| [flowx-clmm-audit](https://github.com/tanishqshah2/flowx-clmm-audit) | Smart contract security audit |
-| [zigchain-audit](https://github.com/tanishqshah2/zigchain-audit) | Blockchain protocol security review |
 
 ---
 
 ## Certifications
 
 - **CAP** — Certified AppSec Practitioner, The SecOps Group
-- **Google Cybersecurity Specialization** — Google
 - **EHE** — Ethical Hacking Essentials, EC-Council
 
 ---
