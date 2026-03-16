@@ -53,9 +53,6 @@ I break things for a living — web apps, networks, smart contracts, you name it
 |--------|-------------|------|
 | [🔍 Spy_Cam_Detection](https://github.com/tanishqshah2/Spy_Cam_Detection) | Detect hidden spy cameras on local networks | HTML/JS |
 | [🌐 CNAME-Lookup-Tool](https://github.com/tanishqshah2/CNAME-Lookup-Tool) | Subdomain takeover recon — bulk CNAME resolution | Python |
-| [⚡ DigiSpark-Scripts](https://github.com/tanishqshah2/DigiSpark-Scripts) | USB Rubber Ducky–style payloads for DigiSpark | Shell |
-| [🔗 flowx-clmm-audit](https://github.com/tanishqshah2/flowx-clmm-audit) | Smart contract security audit | Move |
-| [⛓️ zigchain-audit](https://github.com/tanishqshah2/zigchain-audit) | Blockchain protocol security review | Go |
 
 ---
 
